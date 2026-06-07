@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 高橋順子（Junko Takahashi）
 
-<!--
-**Junko-Takahashi-Cloud/Junko-Takahashi-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+在宅ITサポート / QA補助 / データチェック  
+Excel（20年以上）・VBA（13年以上）・C#学習中・GitHub運用  
+AI・ITサービスのテスト業務に興味があります。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 できること
+- Excel/VBA を使った業務効率化ツール作成  
+- データチェック、動作確認、手順書作成  
+- QA補助（テストケース作成・動作検証）  
+- C# を使った簡易アプリ作成  
+
+---
+
+## 📁 成果物（ピン留め）
+- **SBAS（スポーツボウリング場システム）UI案**  
+- **C#：数独アプリ**  
+- **VBA：FAX送付状自動作成ツール**
+
+---
+
+## 📫 連絡先
+GitHub Issues または各サービスのDMからご連絡ください。
