@@ -1,8 +1,8 @@
 # Hi there, I'm Junko Takahashi 👋
 
-20年以上のバックオフィス実務経験（事務・経理）と、
-ITスキル（Excel/VBA, C#, Python, SQL）を掛け合わせて
-企業の業務効率化・データ処理・QA/システムテストを行うエンジニアです。
+20年以上のバックオフィス実務経験（事務・経理）と  
+Excel/VBA・C#・Python・SQL を活用した  
+業務効率化・データ処理・自動化ツール開発を行っています。
 
 ## 🛠️ My Strengths & Approach
 - **AI × 爆速開発**  
