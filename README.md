@@ -33,6 +33,8 @@ Excel/VBA・C#・Python・SQL を活用した
 - **Languages**: VBA / C# / Python（AI自動化・スクレイピング） / SQL  
 - **Tools**: GitHub / Copilot / Excel / Access / Notion
 
+Excel・VBA・Python を使った業務自動化ツールの開発が可能です。
+
 ---
 
 📬 お仕事のご相談は、クラウドソーシング（CrowdWorks等）またはDMにてお気軽にご連絡ください。
