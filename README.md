@@ -1,40 +1,47 @@
-# Hi there, I'm Junko Takahashi 👋
+# 👋 Hi there, I'm Junko Takahashi
 
-20年以上のバックオフィス実務経験（事務・経理）と  
-Excel/VBA・C#・Python・SQL を活用した  
-業務効率化・データ処理・自動化ツール開発を行っています。
+Python・AIを活用した業務改善ツールやWebアプリケーションを開発しています。
 
-## 🛠️ My Strengths & Approach
-- **AI × 爆速開発**  
-  Copilot等のAIツールを開発プロセスに組み込み、短納期・高品質なコード生成やデバッグを実現します。
+20年以上のバックオフィス実務経験（事務・経理）を活かし、現場の課題を理解した実用的な自動化ツールの開発を得意としています。
 
-- **実務直結の視点**  
-  現場のペイン（手作業の負担）を理解しているため、マニュアルがない状態からでも
-  「本当に使いやすい自動化ツール」を提案・形にできます。
+Copilotなどの生成AIを開発に取り入れ、Python・Excel・VBA・C#・SQLを活用した業務効率化やデータ処理、自動化ツールを開発しています。
 
-- **正確なデータ検証**  
-  大量データのクレンジングや、コード構造を理解した上での高精度なシステムテスト（QA）が得意です。
+## 🛠️ Strengths
 
-## 🚀 Projects & Portfolio
-作成した小規模ツールやUI設計のプロトタイプです。  
-ソースコードや設計の品質確認にご活用ください。
+* 🤖 AI × Python を活用した業務改善ツール・Webアプリケーション開発
+* 📊 Excel・VBA・Pythonによる業務効率化・自動化
+* ✅ データクレンジング・システムテスト（QA）・品質検証
+* 💡 現場の業務フローを理解した実践的なツール開発
 
-- **Sudoku (C#)**  
-  C#で開発した数独（ナンプレ）アプリケーション。ロジックと直感的なUI/UXの両立を意識して構築しました。
+## 🚀 Main Projects
 
-- **SBAS (UI Design / Prototype)**  
-  スポーツボウリング場システムのUI案。実際の業務フローを想定し、使いやすさを追求した設計です。
+* 🔮 **AI Tarot Career**
+  Python・Streamlitを使用した仕事・転職向けAIタロットアプリ
 
-- **Auto-FAX-Maker (VBA)**  
-  1つのデータ一覧（表）から複数の個別FAX用紙をワンクリックで自動生成するツール。
-  転記ミスや作業時間を大幅に削減する、実務直結の効率化マクロです。
+* 📄 **Invoice Automation**
+  Excelテンプレートを利用した請求書自動生成ツール
 
-## 🧰 Tech Stack
-- **Languages**: VBA / C# / Python（AI自動化・スクレイピング） / SQL  
-- **Tools**: GitHub / Copilot / Excel / Access / Notion
+* 📠 **Auto FAX Maker**
+  Excelデータから複数のFAX送付状を自動生成するVBAツール
 
-Excel・VBA・Python を使った業務自動化ツールの開発が可能です。
+* 🎳 **SBAS (UI Design / Prototype)**
+  スポーツボウリング場向けシステムのUI設計・プロトタイプ
+
+* 🧩 **Sudoku (C#)**
+  C#で開発した数独アプリケーション
+
+## 💻 Tech Stack
+
+**Languages:** Python / VBA / C# / SQL
+
+**Frameworks:** Streamlit
+
+**Tools:** Git / GitHub / GitHub Copilot / Excel / Access / Notion
+
+**Currently Learning:** OpenAI API / AIエージェント開発 / 業務改善アプリケーション開発
 
 ---
 
-📬 お仕事のご相談は、クラウドソーシング（CrowdWorks等）またはDMにてお気軽にご連絡ください。
+「現場を知っているからこそ作れる、AI × Python の業務改善ツール」をテーマに開発しています。
+
+📬 お仕事のご相談は GitHub またはクラウドソーシング（CrowdWorks等）よりお気軽にご連絡ください。
