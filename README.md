@@ -15,6 +15,9 @@ Copilotなどの生成AIを開発に取り入れ、Python・Excel・VBA・C#・S
 
 ## 🚀 Main Projects
 
+* 📧 **Job Mail Collector**
+  Yahoo!メール(IMAP)からスカウトメールを自動取得し、案件情報を抽出・保存するツール
+
 * 🔮 **AI Tarot Career**
   Python・Streamlitを使用した仕事・転職向けAIタロットアプリ
 
@@ -22,12 +25,12 @@ Copilotなどの生成AIを開発に取り入れ、Python・Excel・VBA・C#・S
   Excelテンプレートを利用した請求書自動生成ツール
 
 * 📠 **Auto FAX Maker**
-  Excelデータから複数のFAX送付状を自動生成するVBAツール
+  Excelデータから複数のFAX送信状を自動生成するVBAツール
 
 * 🎳 **SBAS (UI Design / Prototype)**
   スポーツボウリング場向けシステムのUI設計・プロトタイプ
 
-* 🧩 **Sudoku (C#)**
+* 🟩 **Sudoku (C#)**
   C#で開発した数独アプリケーション
 
 ## 💻 Tech Stack
@@ -38,7 +41,7 @@ Copilotなどの生成AIを開発に取り入れ、Python・Excel・VBA・C#・S
 
 **Tools:** Git / GitHub / GitHub Copilot / Excel / Access / Notion
 
-**Currently Learning:** OpenAI API / AIエージェント開発 / 業務改善アプリケーション開発
+**Currently Learning:** OpenAI API(複数AIによる合議・AI会議の仕組み作り) / メール連携・データ抽出処理
 
 ---
 
