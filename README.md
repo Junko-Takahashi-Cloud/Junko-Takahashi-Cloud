@@ -2,10 +2,12 @@
 
 **AI × Pythonを活用し、現場の課題を理解した業務改善ツール・Webアプリケーション・業務システムを開発しています。**
 
-20年以上のバックオフィス実務経験（事務・経理）を活かし、  
+20年以上のバックオフィス実務経験(事務・経理)を活かし、
 「現場で本当に使える仕組み」を意識したシステム開発に取り組んでいます。
 
 Python・FastAPI・Streamlit・SQLなどを活用し、要件整理・DB設計・API設計・実装・テスト・改善まで、AIを開発パートナーとして活用しながら開発しています。
+
+🔗 **Portfolio Site**: https://junko-takahashi-cloud.github.io/personal-site/(お仕事のご相談フォームもこちらから)
 
 ## 🛠 Strengths
 
@@ -19,70 +21,70 @@ Python・FastAPI・Streamlit・SQLなどを活用し、要件整理・DB設計�
 
 ## 🚀 Main Projects
 
-### 🎳 Sports Bowling Lane Management System
-スポーツボウリング場の店舗運営を支援する管理システム。
+### 🎳 スポーツボウリング場運営システム(全5フェーズ)
 
-スタッフログイン、当日予約一覧、来店受付・チェックイン／チェックアウト、レーン稼働状況、レーンアサイン、教室参加者管理、決済確認などを実装。
+予約から店舗運営、会員管理・成長支援、独自スコアリング分析まで、実際の店舗運営を想定して段階的に拡張してきたシステムです。単発のアプリではなく、要件整理・DB設計・API設計・実装・テストを繰り返しながら一つのシステムを育てています。
 
-**Python / FastAPI / SQLAlchemy / SQLite / JWT**
+| Phase | 内容 | Repo |
+|---|---|---|
+| 第一・二弾 | 予約システム(個人予約〜初心者教室・団体申込・貸切予約) | [bowling-lane-reservation-system](https://github.com/Junko-Takahashi-Cloud/bowling-lane-reservation-system) |
+| 第三弾 | 店舗・スタッフ管理システム(来店受付・レーン管理・決済確認) | [bowling-lane-management-system](https://github.com/Junko-Takahashi-Cloud/bowling-lane-management-system) |
+| 第四弾 | 会員管理・成長支援システム(投球データ蓄積・成長ダッシュボード) | [bowling-lane-growth-system](https://github.com/Junko-Takahashi-Cloud/bowling-lane-growth-system) |
+| 第五弾 | 独自・高機能スコアリングシステム(競技者向け高度分析エンジン) | [bowling-lane-scoring-system](https://github.com/Junko-Takahashi-Cloud/bowling-lane-scoring-system) |
 
-→ [bowling-lane-management-system](https://github.com/Junko-Takahashi-Cloud/bowling-lane-management-system)
-
-### 🎳 Sports Bowling Lane Reservation System
-スポーツボウリング場を想定した予約システム。
-
-個人予約から初心者向け全5回教室まで、利用者側の予約体験を中心に段階的に機能を拡張。
-
-**Python / FastAPI / Streamlit / SQLite**
-
-→ [bowling-lane-reservation-system](https://github.com/Junko-Takahashi-Cloud/bowling-lane-reservation-system)
+**Python / FastAPI / Streamlit / SQLAlchemy / SQLite / JWT**
 
 ### 📩 Job Mail Collector
-Yahoo!メール（IMAP）から求人・スカウトメールを自動取得し、案件情報を抽出・整理する業務改善ツール。
+
+Yahoo!メール(IMAP)から求人・スカウトメールを自動取得し、案件情報を抽出・整理する業務改善ツール。
 
 **Python**
 
 ### 🧾 Invoice Automation
+
 Excelテンプレートを利用し、請求書PDFの自動生成からファイル名付与までを自動化するツール。
 
 **Python / Excel**
 
 ### 🔮 AI Tarot Career
+
 AIを活用した仕事・転職向けタロットアプリ。
 
 **Python / Streamlit / AI**
 
 ### 🌐 Bowling Crowdfunding
+
 スポーツボウリング場構想をテーマにしたWebデザイン・HTML/CSSコーディング作品。
 
 **HTML / CSS**
 
 ## 💻 Tech Stack
 
-**Languages**  
+**Languages**
 Python / VBA / C# / SQL / HTML / CSS
 
-**Frameworks & Libraries**  
+**Frameworks & Libraries**
 FastAPI / Streamlit / SQLAlchemy
 
-**Database**  
+**Database**
 SQLite
 
-**Tools**  
+**Tools**
 Git / GitHub / GitHub Copilot / ChatGPT / Claude / Gemini / Microsoft Copilot / Excel / Access / Notion
 
-**Development Approach**  
+**Development Approach**
 AIを開発パートナーとして活用し、設計・実装・検証・改善を行うAI協働開発
 
 ## 🎯 Current Focus
 
-現在は、スポーツボウリング場構想を題材に、
+スポーツボウリング場運営システムは、予約→店舗運営→会員管理・成長支援→独自スコアリング分析まで、全5フェーズが完成しています。
 
-**「予約」→「店舗運営」→「会員管理・成長支援」**
+現在は、このポートフォリオを土台に
 
-へと段階的にシステムを拡張しています。
+- 個人サイト・ココナラ経由での**実案件の獲得**
+- 第三弾(店舗運営)の拡張機能(メンテナンス管理・コーチシフト管理など)の充実
 
-単発のアプリ開発ではなく、実際の店舗運営を想定して要件を整理し、DB設計・API設計・実装・テストを繰り返しながら、ひとつのシステムを段階的に成長させています。
+に取り組んでいます。単発のアプリ開発では終わらせず、実際の店舗運営を想定したシステムとして磨き続けています。
 
 ## 💡 My Development Philosophy
 
@@ -90,4 +92,4 @@ AIを開発パートナーとして活用し、設計・実装・検証・改善
 
 バックオフィスで実際に業務を経験してきたからこそ分かる「面倒」「分かりにくい」「手作業が多い」といった現場の課題を、AIとPythonを活用して実用的な仕組みに変えていくことを目指しています。
 
-📩 お仕事のご相談はGitHubまたは各種プロフィール経由でお気軽にご連絡ください。
+📩 お仕事のご相談は[ポートフォリオサイトのお問い合わせフォーム](https://junko-takahashi-cloud.github.io/personal-site/)、またはGitHub・各種プロフィール経由でお気軽にご連絡ください。
