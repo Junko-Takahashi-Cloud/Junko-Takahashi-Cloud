@@ -7,7 +7,7 @@
 
 Python・FastAPI・Streamlit・SQLなどを活用し、要件整理・DB設計・API設計・実装・テスト・改善まで、AIを開発パートナーとして活用しながら開発しています。
 
-🔗 **Portfolio Site**: https://junko-takahashi-cloud.github.io/personal-site/(お仕事のご相談フォームもこちらから)
+🔗 **Portfolio Site**: https://junko-takahashi-cloud.github.io/personal-site/ (お仕事のご相談フォームもこちらから)
 
 ## 🛠 Strengths
 
